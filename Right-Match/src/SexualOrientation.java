@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-//LOLO
+
 
 public class SexualOrientation {
 	 private ArrayList<String> sexualOrientationOptions = new ArrayList<String>();
