@@ -14,5 +14,9 @@ public class PossibleMatches{
 	public void updateLList(){}	
 	public void updateRFList(){}
 	public void display(){}
+	/*public String selectName(){}
+	public int getUserAge() {}
+	public String getUserInfo() {} 
+	public String retInfo() {} */
 
 }

@@ -5,11 +5,14 @@ public class MapOfChoices {
 	ArrayList<String> locations = new ArrayList<String>();
 	ArrayList<String> userID = new ArrayList<String>();;
 
-	public String getLocations(){}//prepei na pernw locations apo user?
+	//public String getLocations(){}//prepei na pernw locations apo user?
 
 	public void setDistance(){}
 	public void exit(){}
-	public void adjustMap(){}
+	//public void retLocations(){}
+	public void notFoundLocations(){}
+	public void messageRejectMatch(){}
+	//public void retUserInfo(){}
 	public void failMessage(){}
 	public void selectUser(){}
 	public void dateNow(){}
